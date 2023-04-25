@@ -1,0 +1,29 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, build folder, and coverage output
+/testbin/
+/cover/
+/pkg/
+
+# Dependency directories (remove the ones that you don't use)
+/vendor/
+
+# Other generated files
+.idea/
+.vscode/
+*.iml
+*.log
+*.out
+*.test
+*.prof
+*.testlog
+*.trace
+*.pprof
+*.cov
+*.cover
+*.coverprofile
